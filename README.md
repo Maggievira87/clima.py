@@ -16,6 +16,7 @@ pip install requests
 Proye
 ## Uso
 python weather_app.py
+
 DESCRIPCIÓN DE LA APLICACIÓN
 
 La Aplicación del Clima es un proyecto desarrollado en Python que permite obtener información meteorológica utilizando la API gratuita de Open-Meteo. La función principal, llamada getWeather, consulta datos de temperatura máxima y mínima para una ubicación específica a partir de sus coordenadas geográficas (latitud y longitud) y para un número configurable de días. La aplicación está diseñada para ser clara, reutilizable y robusta frente a errores, lo que la hace adecuada como proyecto académico y como base para desarrollos futuros.
